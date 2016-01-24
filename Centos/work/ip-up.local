@@ -1,0 +1,5 @@
+#!/bin/sh
+CURRENT_MTU="`ifconfig $1 | grep -Po '(?<=MTU:)([0-9]+)'`"
+FIXED_MTU="`expr $CURRENT_MTU + 4`"
+ifconfig $1 mtu $FIXED_MTU
+echo "Increased MTU for $1 to $FIXED_MTU (from $CURRENT_MTU) to fix MPPE Microsoft Point-to-Point bug #330973"
