@@ -2,12 +2,22 @@
 <html>
 <head>
 <meta charset="UTF-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn.longsays.com" />
+<link rel="dns-prefetch" href="//longsays.b0.upaiyun.com" />
+<link rel="dns-prefetch" href="//s06.flagcounter.com" />
+<link rel="dns-prefetch" href="//static.googleadsserving.cn" />
+<link rel="dns-prefetch" href="//lu.sogou.com" />
 <meta name="viewport" content="width=device-width" />
+<meta http-equiv="Cache-Control" content="no-transform " />
+<link rel="author" href="https://plus.google.com/108270394069994455147?rel=author" />
 <title><?php wp_title('-', true, 'right'); echo get_option('blogname'); if (is_home ()) echo "-", get_option('blogdescription'); if ($paged > 1) echo '-Page ', $paged; ?></title>
+<link rel="stylesheet" href="http://longsays.b0.upaiyun.com/css/style.css" media="all" />
+<link rel="stylesheet" href="http://longsays.b0.upaiyun.com/css/love.sas.sky.css" type='text/css' />
 <?php wp_head(); ?>
-<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" media="all" />
 </head>
 <body <?php body_class(); ?>>
+<div id="harmony">
 <div class="topbar">
 	<div class="inner">
 		<?php if( is_home() ) echo '<h1 class="logo"><a'; else echo '<a class="logo"'; ?> href="<?php bloginfo('url'); ?>" title="<?php bloginfo('name'); ?> - <?php bloginfo('description'); ?>"><?php bloginfo('name'); ?></a><?php if( is_home() ) echo '</h1>'; echo "\n"; ?>

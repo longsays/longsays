@@ -22,6 +22,9 @@ num = 1,
 comm_array = [];
 comm_array.push('');
 
+var myDate = new Date();
+var mytime=myDate.toLocaleTimeString()
+
 jQuery(document).ready(function($) {
 	$('.commentlist dt .url').attr('target', '_blank');
 	$('.excerpt img,.entry img').removeAttr('height');
@@ -76,10 +79,14 @@ jQuery(document).ready(function($) {
 			a.focus()
 		}
 	}
+	
 	var g = document.getElementById('comment') || 0;
 	var h = {
 		strong: function() {
 			addEditor(g, '<strong>', '</strong>')
+		},
+		daka: function() {
+		addEditor(g, '<blockquote>签到成功！签到时间：' + mytime, '，每日打卡，生活更精彩哦~</blockquote>')
 		},
 		em: function() {
 			addEditor(g, '<em>', '</em>')

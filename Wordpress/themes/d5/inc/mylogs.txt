@@ -1,0 +1,164 @@
+1012190920 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/show-spiders 110.113.152.85 
+1012230255 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.76 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 222.179.209.181 
+1012230740 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.76 [] http://www.longsays.com/20130811/baidu-yun-links-2.html 222.179.209.181 
+1013112926 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.76 [] http://www.longsays.com/show-spiders 222.179.209.181 
+1013113054 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/show-spiders 123.85.203.7 
+1013130955 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/20131013/1-19.html 111.11.113.211 
+1013154747 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.66 [] http://www.longsays.com/20130610/over-the-years.html 183.3.48.234 
+1013164225 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/20131013/1-19.html 123.85.203.7 
+1013204508 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 10.0 [] http://www.longsays.com/20130610/over-the-years.html/comment-page-1#comment-30013 113.119.101.198 
+1014095209 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 27.0.1453.110 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 218.242.179.174 
+1018130023 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 23.0.1271.97 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 183.12.65.45 
+1024145147 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20130610/over-the-years.html 110.194.97.208 
+1024205503 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 183.216.69.0 
+1024210513 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 110.114.221.181 
+1025091415 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1612.2 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 111.75.208.194 
+1025133720 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 110.113.154.69 
+1025191957 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 117.14.48.153 
+1025222112 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131013/1-19.html 119.162.51.253 
+1027104117 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 111.222.81.35 
+1027223919 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1573.2 [] http://www.longsays.com/20130610/over-the-years.html 60.186.206.97 
+1028084703 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1612.2 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html/comment-page-1 111.75.208.194 
+1028210701 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 110.114.217.152 
+1028215428 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 125.46.21.242 
+1028231305 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 124.90.96.154 
+1029224650 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 110.114.222.207 
+1029224740 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 110.114.222.207 
+1030191932 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 125.46.21.242 
+1030220806 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 110.114.148.243 
+1101162047 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 24.0 [] http://www.longsays.com/20130610/over-the-years.html 222.73.189.242 
+1101204050 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/feedback 175.8.193.123 
+1101204220 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/links-about 175.8.193.123 
+1101212811 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/feedback 122.82.87.139 
+1102010437 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html 183.216.68.55 
+1102100806 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 113.103.1.108 
+1102175710 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html 122.82.187.80 
+1103095936 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20130829/fyvps.html 112.90.194.117 
+1103100940 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 124.90.97.181 
+1103170000 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 222.179.209.181 
+1103170115 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html 222.179.209.181 
+1103175456 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 122.82.184.152 
+1103175605 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html 122.82.184.152 
+1103202716 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html/comment-page-1 222.179.209.181 
+1103203234 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 222.179.209.181 
+1103225644 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20130829/fyvps.html 110.114.25.144 
+1103225935 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 110.114.25.144 
+1103230304 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html/comment-page-1 222.179.209.181 
+1106222106 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/links-about 116.233.163.130 
+1106230025 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/links-about 110.114.212.28 
+1109014251 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.76 [] http://www.longsays.com/20120506/blog-56.html 180.157.122.132 
+1110181831 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 26.0 [] http://www.longsays.com/20131110/1-20.html 60.216.178.225 
+1111094350 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1612.2 [] http://www.longsays.com/20131110/1-20.html 111.75.208.194 
+1111181544 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131029/links-first-update.html 182.32.197.161 
+1112084201 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1612.2 [] http://www.longsays.com/20131112/1-21.html 111.75.208.194 
+1112183616 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131112/1-21.html 113.120.57.213 
+1113142257 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 26.0 [] http://www.longsays.com/20131024/wordpress-disable-automatically-save-story-the-track-changes-feature.html 111.222.81.35 
+1113180909 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 6.0 [] http://www.longsays.com/20130829/fyvps.html 120.10.163.171 
+1114104927 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20130829/fyvps.html 8.35.201.53 
+1117143627 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1659.2 [] http://www.longsays.com/20131029/links-first-update.html 101.228.255.230 
+1117150504 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1659.2 [] http://www.longsays.com/20131029/links-first-update.html 101.228.255.230 
+1117150851 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20131029/links-first-update.html 110.113.155.9 
+1119232547 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20130829/fyvps.html 218.19.13.251 
+1120085338 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20130114/moving-to-zhuji-gd.html 124.205.129.38 
+1120194514 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.57 [] http://www.longsays.com/20130829/fyvps.html 112.13.125.16 
+1126161241 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/20131029/links-first-update.html 120.68.216.238 
+1127173436 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 7.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 219.146.227.78 
+1127223332 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/feedback 119.120.123.116 
+1201224827 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.57 [] http://www.longsays.com/20130829/fyvps.html 183.3.86.187 
+1208135602 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1659.2 [] http://www.longsays.com/20131207/teredo-ipv6.html 101.229.135.239 
+1208180408 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.57 [] http://www.longsays.com/20131029/links-first-update.html 120.40.200.226 
+1208215025 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20131207/teredo-ipv6.html 125.46.21.242 
+1208233620 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 26.0 [] http://www.longsays.com/20131029/links-first-update.html 61.140.239.115 
+1209161009 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131207/teredo-ipv6.html 222.73.189.242 
+1209202926 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 25.0 [] http://www.longsays.com/20131207/teredo-ipv6.html 113.120.62.179 
+1211082717 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.69 [] http://www.longsays.com/20131207/teredo-ipv6.html 115.229.175.215 
+1214000005 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20131207/teredo-ipv6.html 110.113.153.235 
+1214000049 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20131207/teredo-ipv6.html 110.113.153.235 
+1214115409 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko [] http://www.longsays.com/20131029/links-first-update.html/comment-page-1#comment-30136 110.88.26.38 
+1215100316 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20131207/teredo-ipv6.html/comment-page-1 125.46.21.242 
+1230151129 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20130829/fyvps.html 49.65.65.182 
+0101155606 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1659.2 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 101.229.129.14 
+0102084624 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 111.75.208.194 
+0102084658 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 111.75.208.194 
+0103085550 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 111.7.224.75 
+0103163937 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 125.221.104.155 
+0107213129 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 26.0 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 116.224.102.205 
+0108202819 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 36.250.224.12 
+0109232610 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.83 [] http://www.longsays.com/20130829/fyvps.html 110.243.197.46 
+0109232723 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.83 [] http://www.longsays.com/20131029/links-first-update.html 110.243.197.46 
+0109232901 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.83 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 110.243.197.46 
+0111161216 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.72 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 218.200.66.246 
+0112213946 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.66 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 112.87.177.190 
+0112214101 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.66 [] http://www.longsays.com/20130829/fyvps.html 112.87.177.190 
+0112214426 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.66 [] http://www.longsays.com/20130915/autocad-2014.html 112.87.177.190 
+0113230158 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 6.0 [] http://www.longsays.com/20130829/fyvps.html 113.77.215.116 
+0114144259 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20130829/fyvps.html 27.16.39.203 
+0118222555 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.83 [] http://www.longsays.com/20130829/fyvps.html 110.243.240.6 
+0122102704 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 31.0.1650.57 [] http://www.longsays.com/20131029/links-first-update.html 125.40.53.101 
+0122185849 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 28.0.1500.95 [] http://www.longsays.com/20130829/fyvps.html 114.246.157.49 
+0130002234 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 27.0 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 61.140.158.52 
+0130112023 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 29.0.1547.66 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 14.108.181.219 
+0131143757 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.102 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 122.82.86.250 
+0131230847 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.83 [] http://www.longsays.com/20130829/fyvps.html 110.243.225.207 
+0201110854 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.76 [] http://www.longsays.com/20130829/fyvps.html 122.82.8.193 
+0204083836 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.102 [] http://www.longsays.com/20130829/fyvps.html 110.88.25.61 
+0204083950 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.102 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 110.88.25.61 
+0204084020 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.102 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 110.88.25.61 
+0211210817 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 32.0.1700.102 [] http://www.longsays.com/20131029/links-first-update.html 27.19.181.74 
+0213143053 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 26.0.1410.43 [] http://www.longsays.com/feedback 36.7.74.135 
+0215161451 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 220.166.217.153 
+0226114622 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20130829/fyvps.html 220.161.148.210 
+0227170326 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20130829/fyvps.html 61.241.200.213 
+0303160128 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 33.0.1750.117 [] http://www.longsays.com/feedback 125.46.21.242 
+0313193607 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Internet Explorer 8.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 137.116.185.61 
+0406231501 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 28.0.1500.95 [] http://www.longsays.com/feedback 49.5.1.27 
+0409215840 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.89 [] http://www.longsays.com/feedback 117.150.72.102 
+0412002832 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 30.0.1599.101 [] http://www.longsays.com/contact-us 222.58.148.27 
+0414083521 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 30.0.1599.101 [] http://www.longsays.com/20140413/dns-www-net-cn.html 111.75.208.202 
+0414174832 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140413/dns-www-net-cn.html 117.150.73.216 
+0414193205 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 34.0.1847.116 [] http://www.longsays.com/20140413/dns-www-net-cn.html 125.46.21.242 
+0415151046 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Internet Explorer 8.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 106.81.25.72 
+0415201633 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140413/dns-www-net-cn.html 117.150.75.165 
+0417141736 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Firefox 28.0 [] http://www.longsays.com/20140413/dns-www-net-cn.html 182.32.93.113 
+0417212220 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140413/dns-www-net-cn.html 117.150.69.31 
+0419171041 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 32.0.1700.107 [] http://www.longsays.com/20140413/dns-www-net-cn.html 118.186.156.245 
+0419221536 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 32.0.1700.107 [] http://www.longsays.com/20140413/dns-www-net-cn.html 117.150.71.246 
+0426085558 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Firefox 28.0 [] http://www.longsays.com/feedback 58.20.0.246 
+0426221734 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 33.0.1750.154 [] http://www.longsays.com/20140413/dns-www-net-cn.html 111.193.18.29 
+0524080156 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 34.0.1847.137 [] http://www.longsays.com/20140413/dns-www-net-cn.html 124.228.81.14 
+0529183526 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Internet Explorer 9.0 [] http://www.longsays.com/20130829/fyvps.html 162.248.244.166 
+0601140034 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/feedback 223.144.194.239 
+0602093953 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Firefox 29.0 [] http://www.longsays.com/20140413/dns-www-net-cn.html 183.19.179.217 
+0602213424 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140413/dns-www-net-cn.html 117.150.74.79 
+0604082507 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Internet Explorer 7.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 110.82.166.205 
+0610094654 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.114 [] http://www.longsays.com/20140413/dns-www-net-cn.html 115.28.14.71 
+0611001037 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.114 [] http://www.longsays.com/feedback 125.46.21.242 
+0612231119 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.114 [] http://www.longsays.com/feedback 64.37.52.73 
+0613173334 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/feedback 117.150.75.37 
+0613173357 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/feedback 117.150.75.37 
+0613223649 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140606/%e5%bf%ab%e5%9b%be%e6%b5%8f%e8%a7%88%e5%bc%80%e5%a7%8b-beta-%e6%b5%8b%e8%af%95%e5%95%a6.html 222.58.149.25 
+0617161913 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 30.0.1599.101 [] http://www.longsays.com/feedback 110.80.169.165 
+0628121413 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 33.0.1750.154 [] http://www.longsays.com/20131207/teredo-ipv6.html 58.240.39.58 
+0701110043 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140630/replace-google-fonts.html 222.58.148.63 
+0701162856 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140630/replace-google-fonts.html 117.150.74.42 
+0701185040 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20131207/teredo-ipv6.html/comment-page-1 112.23.226.65 
+0701191216 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140630/replace-google-fonts.html 117.158.27.77 
+0701215334 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140413/dns-www-net-cn.html 78.22.112.42 
+0702002346 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Firefox 30.0 [] http://www.longsays.com/20140701/paypal-payoneer.html 182.32.197.133 
+0702082219 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.114 [] http://www.longsays.com/20140701/paypal-payoneer.html 111.75.208.202 
+0702102734 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140701/paypal-payoneer.html 222.58.148.63 
+0702201338 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140701/paypal-payoneer.html 23.235.128.5 
+0702201355 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20140701/paypal-payoneer.html 23.235.128.5 
+0703104136 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 30.0.1599.101 [] http://www.longsays.com/feedback 110.80.156.247 
+0703125654 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Internet Explorer 9.0 [] http://www.longsays.com/20140101/baidu-open-cloud-bae-binding-domain-filing-notice.html 222.190.126.142 
+0703213349 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20140701/paypal-payoneer.html 222.241.131.29 
+0707184424 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20121022/judged-the-jquery-library-whether-the-successful-introduction-of-if-not-successful-introduction-of-local-jquery-library.html 218.18.19.87 
+0707184429 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 35.0.1916.153 [] http://www.longsays.com/20121022/judged-the-jquery-library-whether-the-successful-introduction-of-if-not-successful-introduction-of-local-jquery-library.html 218.18.19.87 
+0801084155 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Chrome 21.0.1180.89 [] http://www.longsays.com/20130811/baidu-yun-links-2.html 119.124.153.70 
+0801173223 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.1 POST Firefox 31.0 [] http://www.longsays.com/20140701/paypal-payoneer.html 117.150.74.132 
+0902122923 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Internet Explorer 8.0 [] http://www.longsays.com/20131007/lnmp-nginx-amh.html 124.78.121.215 
+0912170321 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Firefox 31.0 [] http://www.longsays.com/20140701/paypal-payoneer.html 101.20.2.82 
+1008214302 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 33.0.1750.146 [] http://www.longsays.com/20140701/paypal-payoneer.html 110.243.160.201 
+1018130154 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 34.0.1847.131 [] http://www.longsays.com/20140701/paypal-payoneer.html 211.97.11.8 
+1027024213 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 38.0.2125.104 [] http://www.longsays.com/feedback 94.194.173.79 
+0701210615 /wp-content/themes/d5/inc/comments-ajax.php HTTP/1.0 POST Chrome 31.0.1650.63 [] http://www.longsays.com/20140701/paypal-payoneer.html 171.112.156.37 

@@ -10,7 +10,7 @@
 body,h1,h2,h3,h4,p,ul,li,ol,input,textarea,figure,form{margin:0;padding:0}
 body,input,textarea{font-size:12px;font-family:'microsoft yahei'}
 input,textarea{outline:none}
-body{text-align:center;margin-top:44px;color:#333;padding:0 12px;background:#C0E2F8 url(img/bodybg.jpg) no-repeat center 0 fixed}
+body{text-align:center;margin-top:44px;color:#333;padding:0 12px;background:#C0E2F8 url('http://www.longsays.com/wp-content/uploads/2012/05/background.jpg') no-repeat center 0 fixed}
 ul,ol{list-style:none}
 img{border:0}
 button,input {line-height:normal;*overflow:visible}
@@ -340,3 +340,5 @@ input.btn,button.btn{cursor:pointer;border-top:0;border-right:0;border-left:0}
 #comment_mail_notify{vertical-align:middle;margin-right:3px;margin-top:-1px}
 #commentform{line-height:24px;padding:4px 0}
 #cancel-comment-reply-link{position:relative;top:1px;margin:0 10px}
+.widget_links ul {overflow:hidden}
+.widget_links ul li {width:45%;float:left;margin-left:10px;}

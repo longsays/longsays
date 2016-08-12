@@ -31,10 +31,22 @@ if ( have_comments() ) {
 
 if ( comments_open() ) { 
 ?>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4162962838193717";
+/* 龙语视觉-A2 */
+google_ad_slot = "3338933567";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 <div id="respond" class="no_webshot">
 	<h3 class="base-tit">
 		<?php comment_form_title('我来说说', '评论回复 %s'); ?>
 	</h3>
+	
 	<?php if ( get_option('comment_registration') && !is_user_logged_in() ) { ?>
 	<h3 class="queryinfo">
 		<?php printf('发表评论您必须先<a href="%s">登录</a>！', wp_login_url( get_permalink() ) );?>
@@ -60,7 +72,7 @@ if ( comments_open() ) {
 		<?php } } ?>
 		<div class="post-area">
 			<div class="comment-editor">
-			   <a id="comment-smiley" href="javascript:;">表情</a><a href="javascript:SIMPALED.Editor.code()">插代码</a><a href="javascript:SIMPALED.Editor.strong()">粗体</a><a href="javascript:SIMPALED.Editor.em()">斜体</a><a href="javascript:SIMPALED.Editor.del()">删除线</a><a href="javascript:SIMPALED.Editor.underline()">下划线</a><a href="javascript:SIMPALED.Editor.quote()">引用</a><a href="javascript:SIMPALED.Editor.ahref()">链接</a><a href="javascript:SIMPALED.Editor.img()">插图</a>
+			   <a id="comment-smiley" href="javascript:;">表情</a><a href="javascript:SIMPALED.Editor.daka()">签到</a><a href="javascript:SIMPALED.Editor.code()">插代码</a><a href="javascript:SIMPALED.Editor.strong()">粗体</a><a href="javascript:SIMPALED.Editor.em()">斜体</a><a href="javascript:SIMPALED.Editor.del()">删除线</a><a href="javascript:SIMPALED.Editor.underline()">下划线</a><a href="javascript:SIMPALED.Editor.quote()">引用</a><a href="javascript:SIMPALED.Editor.ahref()">链接</a><a href="javascript:SIMPALED.Editor.img()">插图</a>
 			</div>
 			<div id="smileys"><?php dtheme_smilies(); ?></div>
 			<textarea name="comment" id="comment" cols="100%" rows="7" tabindex="4" onkeydown="if(event.ctrlKey&amp;&amp;event.keyCode==13){document.getElementById('submit').click();return false};"></textarea>
