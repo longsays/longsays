@@ -1,0 +1,1 @@
+分享到：<a class="dshare ds_tqq">腾讯微博</a><a class="dshare ds_qzone">QQ空间</a><a class="dshare ds_tsina">新浪微博</a><a class="dshare ds_renren">人人网</a><a class="dshare ds_kaixin">开心网</a><a class="dshare ds_douban">豆瓣</a><a class="dshare ds_facebook">Facebook</a><a class="dshare ds_twitter">Twitter</a>
