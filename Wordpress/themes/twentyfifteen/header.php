@@ -12,6 +12,20 @@
 <html <?php language_attributes(); ?> class="no-js">
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
+	<meta http-equiv="x-dns-prefetch-control" content="on" />
+	<link rel="dns-prefetch" href="//cdn.longsays.com" />
+	<link rel="dns-prefetch" href="//qiniu.longsays.com" />
+	<link rel="dns-prefetch" href="//upyun.longsays.com" />
+	<link rel="dns-prefetch" href="//aliyun.longsays.com" />
+	<link rel="dns-prefetch" href="//u.longsays.com" />
+	<link rel="dns-prefetch" href="//fonts.geekzu.org" />
+	<link rel="dns-prefetch" href="//sdn.geekzu.org" />
+	<link rel="dns-prefetch" href="//cpro.baidustatic.com" />
+	<link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
+	<link rel="dns-prefetch" href="//hm.baidu.com" />
+	<link rel="dns-prefetch" href="//api.share.baidu.com" />
+	<link rel="dns-prefetch" href="//storage.live.com" />
+	<link rel="author" href="https://plus.google.com/108270394069994455147?rel=author" />
 	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
