@@ -1,0 +1,8 @@
+fdisk -l
+fdisk /dev/sdb
+mkfs.ext4 /dev/sdb1
+mkdir /home/transmission/D
+echo /dev/sdb1 /home/transmission/D ext4 defaults 0 0 >> /etc/fstab
+cat /etc/fstab
+mount -a
+df -h

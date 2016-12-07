@@ -1,0 +1,1 @@
+sed -i 's/disable_functions =.*/disable_functions =/g' /usr/local/php/etc/php.ini
