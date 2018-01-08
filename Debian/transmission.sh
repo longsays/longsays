@@ -1,3 +1,4 @@
+echo -e "options timeout:1 attempts:1 rotate\nnameserver 8.8.8.8\nnameserver 8.8.4.4" >/etc/resolv.conf;
 sudo su
 cd
 apt-get update
