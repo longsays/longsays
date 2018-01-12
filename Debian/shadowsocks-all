@@ -1,0 +1,19 @@
+echo -e "options timeout:1 attempts:1 rotate\nnameserver 8.8.8.8\nnameserver 8.8.4.4" >/etc/resolv.conf;
+sudo su
+#最新内核地址 http://kernel.ubuntu.com/~kernel-ppa/mainline/
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.15-rc7/linux-image-4.15.0-041500rc7-generic_4.15.0-041500rc7.201801072330_amd64.deb
+dpkg -i linux-image-4.*.deb
+dpkg -l|grep linux-image
+/usr/sbin/update-grub
+mount -o remount rw /
+reboot
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+chmod +x shadowsocks-all.sh
+time ./shadowsocks-all.sh
+wget https://qiniu.longsays.com/SS/shadowsocks_all.json
+mv -f shadowsocks_all.json /etc/shadowsocks-r/config.json
+/etc/init.d/shadowsocks-r restart
+/etc/init.d/shadowsocks-r status
