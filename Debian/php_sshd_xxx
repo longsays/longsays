@@ -1,1 +1,2 @@
 sed -i 's/disable_functions =.*/disable_functions =/g' /usr/local/php/etc/php.ini
+sed -i 's/.*PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
