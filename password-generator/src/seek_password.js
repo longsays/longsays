@@ -33,10 +33,10 @@ function hex_password(pwd, key) {
  */
 function seek_password(hash, length, rule_of_punctuation, rule_of_letter) {
   // 生成字符表
-  var lower = "abcdefghijklmnopqrstuvwxyz".split("");
-  var upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-  var number = "0123456789".split("");
-  var punctuation = "~*-+()!@#$^&".split("");
+  var lower = "abcdefghjkmnpqrstuvwxyz".split("");
+  var upper = "ABCDEFGHJKMNPQRSTUVWXYZ".split("");
+  var number = "23456789".split("");
+  var punctuation = "~*!@#".split("");
   var alphabet = lower.concat(number);
   if (parseInt(rule_of_punctuation) == 1) {
     alphabet = alphabet.concat(punctuation);
