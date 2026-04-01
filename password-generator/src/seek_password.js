@@ -1,17 +1,32 @@
 /**
+ * 基于 Hash 种子确定性乱序字符表
+ */
+function shuffle_alphabet(alphabet, seed) {
+  var shuffled = alphabet.slice();
+  for (var i = shuffled.length - 1; i > 0; i--) {
+  // 利用 seed 字符串中字符的 ASCII 码来决定交换位置
+    var j = (seed.charCodeAt(i % seed.length) * 31 + i) % (i + 1); 
+    var temp = shuffled[i];
+    shuffled[i] = shuffled[j];
+    shuffled[j] = temp;
+  }
+  return shuffled;
+}
+
+/**
  * sha512加密密码
  * @param {记忆密码} pwd
  * @param {区分代码} key
  */
 function hex_password(pwd, key) {
   var hexone = sha512.hmac(key, pwd);
-  var iterations = 100;
+  var iterations = 15000;
   for (var i = 0; i < iterations; i++) {
-    hexone = sha512.hmac(i.toString(), hexone);
+    hexone = sha512.hmac(i.toString() + key, hexone);
   }
 
-  var hextwo = sha512.hmac("K9#pZ27vR!8xQyLwA5bJ4tG6uE1hF0sD", hexone);
-  var hexthree = sha512.hmac("Gf4*sT92uB@5nEjW8xQ2aZ1vL7kM3pY0", hexone);
+  var hextwo = sha512.hmac("K9#pZ27vR!8xQyLwA5bJ4tG6uE1hF0sD" + key + pwd, hexone);
+  var hexthree = sha512.hmac("Gf4*sT92uB@5nEjW8xQ2aZ1vL7kM3pY0" + pwd + key, hexone);
 
   var source = hextwo.split("");
   var rule = hexthree.split("");
@@ -41,7 +56,7 @@ function seek_password(hash, length, rule_of_punctuation, rule_of_letter) {
   var lower = "abcdefghjkmnpqrstuvwxyz".split("");
   var upper = "ABCDEFGHJKMNPQRSTUVWXYZ".split("");
   var number = "23456789".split("");
-  var punctuation = "~*!@#".split("");
+  var punctuation = "~!@#$%^&*".split("");
   var alphabet = lower.concat(number);
   if (parseInt(rule_of_punctuation) == 1) {
     alphabet = alphabet.concat(punctuation);
@@ -49,6 +64,9 @@ function seek_password(hash, length, rule_of_punctuation, rule_of_letter) {
   if (parseInt(rule_of_letter) == 1) {
     alphabet = alphabet.concat(upper);
   }
+
+  // 使用 hash 的后 50 位作为洗牌种子
+  alphabet = shuffle_alphabet(alphabet, hash.slice(-50));
 
   // 生成密码
   // 从0开始截取长度为length的字符串，直到满足密码复杂度为止
